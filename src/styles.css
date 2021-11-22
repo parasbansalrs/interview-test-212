@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+}
+
+button {
+  height: 30px;
+  padding: 0 20px;
+  border: none;
+  outline: none;
+  background: #555555;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #333333;
+}
